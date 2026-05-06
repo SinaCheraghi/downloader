@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `vid_720p.mp4` |
-| **URL** | https://cdn2.pvvstream.pro/videos/-161131426/456241447/vid_720p.mp4?secure=1778065122-NFQrzHUhTF%2B8JE7%2By%2BY74ttZnynrI%2B30oHZk9dBn2Zo%3D&dl=1 |
-| **Date** | 2026-05-06 20:28:27 UTC |
+| **URL** | https://cdn2.pvvstream.pro/videos/-206500319/456239836/vid_720p.mp4?secure=1778065235-Xn%2BdxZywpEUenL8XbUVxroOyFVEKYdta47Y%2BuA4PSRE%3D&dl=1 |
+| **Date** | 2026-05-06 20:28:55 UTC |
 | **Status** | **FAILED** |
 
 ---
