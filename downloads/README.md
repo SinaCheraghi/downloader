@@ -1,10 +1,7 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [vid_360p](./vid_360p)
+- [vid_720p](./vid_720p)
 
 ---
 
