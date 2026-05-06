@@ -1,4 +1,4 @@
-# vid_360p
+# vid_360p.mp4 - Download Failed
 
 ---
 
@@ -6,29 +6,29 @@
 
 | Property | Value |
 |----------|-------|
-| **Original File** | `vid_360p.mp4` |
-| **Total Size** | **4 zip parts** - **179.98 MB** |
-| **Status** | **Complete (100%)** |
-| **Password Protected** | **NO** |
+| **File** | `vid_360p.mp4` |
+| **URL** | https://cdn.pvvstream.pro/videos/-164559613/456239018/vid_360p.mp4?rs=360000&rb=2796202&secure=AGdECHGDdYXUqUIY9QYSPw%3D%3D%2C1778069307&dl=1 |
+| **Date** | 2026-05-06 20:31:37 UTC |
+| **Status** | **FAILED** |
 
 ---
 
-## Download Links
+## Error Details
 
-| # | File | Link |
-|---|------|------|
-| 1 | `vid_360p.z01` | [Download](https://github.com/SinaCheraghi/downloader/raw/main/downloads/vid_360p/vid_360p.z01) |
-| 2 | `vid_360p.z02` | [Download](https://github.com/SinaCheraghi/downloader/raw/main/downloads/vid_360p/vid_360p.z02) |
-| 3 | `vid_360p.z03` | [Download](https://github.com/SinaCheraghi/downloader/raw/main/downloads/vid_360p/vid_360p.z03) |
-| 4 | `vid_360p.zip` | [Download](https://github.com/SinaCheraghi/downloader/raw/main/downloads/vid_360p/vid_360p.zip) |
+```
+Download failed after 3 attempts. Last error: #=#=#                                                                          curl: (22) The requested URL returned error: 410
+```
 
 ---
 
-## How to Extract
+## Possible Solutions
 
-1. **Download** all `.zip` and `.z01`, `.z02`... files
-2. **Extract** using [7-Zip](https://www.7-zip.org/) or [WinRAR](https://www.rarlab.com/)
-3. Open the `.zip` file - all parts will combine automatically
+- Check if the URL is correct and accessible
+- The file may have been removed or moved
+- The server may require authentication
+- For SourceForge: Try using the direct download link
+- Some servers block automated downloads (403 Forbidden)
+- Try again later if it is a temporary server issue
 
 ---
 
