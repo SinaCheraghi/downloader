@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `vid_720p.mp4` |
-| **URL** | https://cdn.pvvstream.pro/videos/-175528932/456243254/vid_720p.mp4?rs=720000&rb=4194304&secure=tFA3WdbFfYZpz1K81rPkCA%3D%3D%2C1778066782&dl=1 |
-| **Date** | 2026-05-06 20:29:39 UTC |
+| **URL** | https://cdn2.pvvstream.pro/videos/-180589051/456239389/vid_720p.mp4?secure=1778065049-XKOYFVIYoI9NG0L1%2FdxRrDAA7GHY4DmkzljgrGoIcOE%3D&dl=1 |
+| **Date** | 2026-05-06 20:29:49 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -16,7 +16,7 @@
 ## Error Details
 
 ```
-Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         curl: (22) The requested URL returned error: 410
+Download failed after 3 attempts. Last error: curl: (22) The requested URL returned error: 403
 ```
 
 ---
